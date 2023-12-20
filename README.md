@@ -1,0 +1,1 @@
+Example project written on pascal language with aim to generate randomized fractals
